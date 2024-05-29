@@ -81,7 +81,7 @@ clear
   clear
   banner
   echo -e "${lh}
-  1.Update
+  1.Update F C C
   2.Brute Pin 4 Digit
   3.Brute Pin 6 Digit
   4.Brute LockScreen Using Wordlist
